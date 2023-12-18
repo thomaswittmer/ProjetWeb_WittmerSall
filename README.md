@@ -10,7 +10,7 @@
   - Version de **Java**: jdk-11.0.20
   - Version de **Geoserver**: 2.24.0
   - Serveur **Apache** avec PHP: 8.2.0
-  - Version de **Pgsql**: 14.0
+  - Version de **PostgreSQL**: 14.0
 
   ## Ports Utilisés
   - **PostgreSQL :** 5432
