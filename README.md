@@ -26,6 +26,12 @@ votre billet d'avion au Terminal 1 (indice dans le popup du jet privé). Une foi
 - Dans l'entrepôt, selectionnez un train de pneus. Un malus est attribué si vous ne prenez pas les pneus indiqués en conférence de presse. Revenez à la voiture en ayant le train de pneus Medium dans l'inventaire.
 - Vous avez désormais les bons pneus et la victoire est assurée. Le trophée apparaît et sa récupération marque la fin du jeu.
 
+## Informations Pratiques
+- En haut à droite de la carte, se trouve le bouton pour le mode triche.
+- En bas à droite de la carte, se trouve le bouton pour terminer le jeu. Ne cliquer dessus qu'à la fin du jeu, lorsque l'alerte indique votre score.
+
+
 ## Problèmes Eventuels
 - Si certaines videos des pilotes ne se chargent pas, c'est normal car par souci d'espace de stockage, uniquement les videos de Charles Leclerc et Lewis Hamilton sont dans le dossier. Choisir l'un de ces deux pilotes est donc préférable pour l'expérience utilisateur.
 - Si une erreur similaire à "Trop de connexions à la base de données" survient, fermer PgAdmin.
+
