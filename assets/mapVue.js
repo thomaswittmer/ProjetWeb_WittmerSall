@@ -153,6 +153,32 @@ const mapp = new Vue({
         //On ajoute le control à la carte.
         var heatmapControl = new HeatmapControl(this.mywms);
         this.map.addControl(heatmapControl);
+
+        var EndGameControl = L.Control.extend({
+            options: {
+                position: 'bottomright'
+            },
+
+            initialize: function () {
+                // You can add any initialization logic here
+            },
+
+            onAdd: function () {
+                var container = L.DomUtil.create('div', 'end-game-control');
+                var button = L.DomUtil.create('button', '', container);
+                button.textContent = 'Fin du jeu';
+
+                L.DomEvent.on(button, 'click', () => {
+                
+                    window.location.href = 'end';
+                });
+
+                return container;
+            }
+        });
+
+        var endGameControl = new EndGameControl();
+        this.map.addControl(endGameControl);
     },
     
     //On crée un fonction pour accéder aux minutes et secondes du chronomètre, ainsi que leurs convertions en chaîne de caractères.
@@ -722,5 +748,7 @@ const mapp = new Vue({
 
 mapp.$mount('#appli');
 window.app = mapp;
+
+
 
 
