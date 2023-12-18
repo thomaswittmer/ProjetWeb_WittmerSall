@@ -25,3 +25,7 @@ votre billet d'avion au Terminal 1 (indice dans le popup du jet privé). Une foi
 - A présent, votre voiture apparaît et indique qu'il vous manque les pneus. Elle vous redirige vers la conférence de presse qui vous indiquera le type de pneus à utiliser pour la course (les pneus Medium, ie les pneus jaunes). On vous indique où les trouver (au Nord-Ouest, à l'entrepôt du constructeur : Pirelli).
 - Dans l'entrepôt, selectionnez un train de pneus. Un malus est attribué si vous ne prenez pas les pneus indiqués en conférence de presse. Revenez à la voiture en ayant le train de pneus Medium dans l'inventaire.
 - Vous avez désormais les bons pneus et la victoire est assurée. Le trophée apparaît et sa récupération marque la fin du jeu.
+
+## Problèmes Eventuels
+- Si certaines videos des pilotes ne se chargent pas, c'est normal car par souci d'espace de stockage, uniquement les videos de Charles Leclerc et Lewis Hamilton sont dans le dossier. Choisir l'un de ces deux pilotes est donc préférable pour l'expérience utilisateur.
+- Si une erreur similaire à "Trop de connexions à la base de données" survient, fermer PgAdmin.
