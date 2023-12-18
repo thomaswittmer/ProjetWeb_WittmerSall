@@ -17,6 +17,17 @@
   - **MAMP :** 8888
   - **Geoserver :** 8080
 
+  ## Connexion à la BDD
+  Les fichiers suivants nécessitent une modification pour la connexion à la bdd pgsql (owner et nom de la base qui peut varier ainsi
+  que votre mot de passe):
+  - db.php
+  - driver.php
+  - end.php
+  - login.php
+  - welcome.php
+  - selected-Driver.php
+  - update-Score.php
+    
   ## Déroulement du jeu 
 - Une page d'acceuil se présente à vous. Vous devez alors indiquer votre pseudo cliquer sur Valider puis sur Suite. Ensuite, sélectionnez le pilote de votre choix.
 - Vous arrivez premièrement à l'aéroport de CDG pour prendre votre jet privé. Pour cela vous devrez trouver
