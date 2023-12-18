@@ -1,0 +1,20 @@
+<layer>
+  <name>objets</name>
+  <id>LayerInfoImpl--6a9c2fb1:18c7c313eaa:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6a9c2fb1:18c7c313eaa:-7ffb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6a9c2fb1:18c7c313eaa:-7ffd</id>
+  </resource>
+  <metadata>
+    <entry key="rootInCapabilities">true</entry>
+  </metadata>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-12-18 09:12:58.880 UTC</dateCreated>
+  <dateModified>2023-12-18 10:36:43.471 UTC</dateModified>
+</layer>
