@@ -12,6 +12,11 @@
   - Serveur **Apache** avec PHP: 8.2.0
   - Version de **Pgsql**: 14.0
 
+  ## Ports Utilisés
+  - **PostgreSQL :** 5432
+  - **MAMP :** 8888
+  - **Geoserver :** 8080
+
   ## Déroulement du jeu 
 - Une page d'acceuil se présente à vous. Vous devez alors indiquer votre pseudo cliquer sur Valider puis sur Suite. Ensuite, sélectionnez le pilote de votre choix.
 - Vous arrivez premièrement à l'aéroport de CDG pour prendre votre jet privé. Pour cela vous devrez trouver
